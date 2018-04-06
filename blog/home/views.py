@@ -3,7 +3,7 @@ from .zipcodetrigger import ZipCodeTrigger
 # from .postcode import ShoppingParams
 
 def shopping_type(postcode):
-
+    pass
 
 
 def home(request):
